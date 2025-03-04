@@ -2,8 +2,9 @@
 <hr />
   
 <h4> HashSet<T> e SortedSet<T> </h4>
-• Representa um conjunto de elementos (similar ao da Álgebra) 
   
+• Representa um conjunto de elementos (similar ao da Álgebra) 
+
 • Não admite repetições
 
 • Elementos não possuem posição
